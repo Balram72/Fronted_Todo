@@ -1,0 +1,17 @@
+.profile {
+  margin: auto;
+  padding: auto;
+  background-color: lightblue;
+  margin-top: 100px;
+  height: 200px;
+  width: 400px;
+  border-radius: 4px;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+.p1 {
+  margin-right: 120px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=profile.css.map */
